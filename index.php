@@ -1,4 +1,5 @@
 <?php
+session_start();
 require 'includes/config.php';
 
 // Inicializar variable de sesión para controlar resets
