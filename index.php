@@ -161,7 +161,7 @@ $productosMostrar = $GLOBALS['config']['productos'];
 
     <!-- Productos con filtro -->
     <main class="container">
-        <h2 class="section-title">Nuestros Productos</h2>
+        <h2 class="section-title">Nuestros Productos.</h2>
         
         <?php 
         $searchTerm = $_GET['q'] ?? '';
